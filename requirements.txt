@@ -1,0 +1,15 @@
+torch
+# flash-attn
+setuptools
+tokenizers
+tqdm
+transformers
+datasets
+hydra-core
+tensor-parallel
+omegaconf
+optuna
+wandb
+trl
+deepspeed
+vllm
